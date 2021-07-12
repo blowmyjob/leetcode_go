@@ -1,19 +1,17 @@
 package leetcode
 
-import "math"
-
 type MinStack struct {
 	stack    []int
 	minStack []int
 }
 
 /** initialize your data structure here. */
-func Constructor() MinStack {
-	return MinStack{
-		stack:    []int{},
-		minStack: []int{math.MaxInt64},
-	}
-}
+//func Constructor() MinStack {
+//	return MinStack{
+//		stack:    []int{},
+//		minStack: []int{math.MaxInt64},
+//	}
+//}
 
 func (this *MinStack) Push(val int) {
 	this.stack = append(this.stack, val)

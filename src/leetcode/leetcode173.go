@@ -4,10 +4,10 @@ type BSTIterator struct {
 	arr []int
 }
 
-func Constructor(root *TreeNode) (it BSTIterator) {
-	it.inOrder(root)
-	return
-}
+//func Constructor(root *TreeNode) (it BSTIterator) {
+//	it.inOrder(root)
+//	return
+//}
 
 func (this *BSTIterator) Next() int {
 	val := this.arr[0]
