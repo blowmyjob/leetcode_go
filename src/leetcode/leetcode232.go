@@ -6,7 +6,7 @@ type MyQueue struct {
 }
 
 /** Initialize your data structure here. */
-func Constructor() MyQueue {
+func Constructor2() MyQueue {
 	return MyQueue{
 		stack1: []int{},
 		stack2: []int{},
