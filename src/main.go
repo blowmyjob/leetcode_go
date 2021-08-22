@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"leetcode/src/leetcode"
+	"leetcode/src/contest"
 )
 
 func main() {
-	num := []byte{'a', 'a', 'b', 'b', 'c', 'c', 'c'}
-	fmt.Println(leetcode.Compress(num))
+	num := []string{"01", "10"}
+	fmt.Println(contest.FindDifferentBinaryString(num))
 }
