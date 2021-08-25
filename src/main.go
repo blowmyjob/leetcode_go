@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	num1 := []int{1, 2}
-	num2 := []int{3, 4}
-	fmt.Println(leetcode.FindMedianSortedArrays(num1, num2))
+	str := "aaaa"
+	fmt.Println(leetcode.LongestPalindrome(str))
 }
