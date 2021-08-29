@@ -6,6 +6,5 @@ import (
 )
 
 func main() {
-	str := "aaaa"
-	fmt.Println(leetcode.LongestPalindrome(str))
+	fmt.Println(leetcode.MyAtoi("4193 with words"))
 }
