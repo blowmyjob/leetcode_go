@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(leetcode.MyAtoi("4193 with words"))
+	fmt.Println(leetcode.LetterCombinations("23"))
 }
