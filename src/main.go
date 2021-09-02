@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(leetcode.LetterCombinations("23"))
+	fmt.Println(leetcode.SearchRange([]int{1}, 1))
 }
