@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"leetcode/src/contest"
+	"leetcode/src/leetcode"
 )
 
 func main() {
-	fmt.Println(contest.NumberOfWeakCharacters([][]int{{7, 9}, {10, 7}, {6, 9}, {10, 4}, {7, 5}, {7, 10}}))
+	fmt.Println(leetcode.MergeIntervals([][]int{{1, 3}, {2, 6}, {8, 10}, {15, 18}}))
 }
