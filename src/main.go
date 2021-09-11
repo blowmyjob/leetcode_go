@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"leetcode/src/leetcode"
+	"leetcode/src/contest"
 )
 
 func main() {
-	fmt.Println(leetcode.MergeIntervals([][]int{{1, 3}, {2, 6}, {8, 10}, {15, 18}}))
+	fmt.Println(contest.MaxmiumScore([]int{1, 2, 8, 9}, 3))
 }
