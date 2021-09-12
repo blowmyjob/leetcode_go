@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(contest.MaxmiumScore([]int{1, 2, 8, 9}, 3))
+	fmt.Println(contest.InterchangeableRectangles([][]int{{2, 3}, {6, 9}, {4, 5}, {5, 2}, {9, 7}, {1, 8}, {5, 8}, {7, 9}}))
 }
