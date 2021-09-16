@@ -251,6 +251,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[132]分割回文串 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[132]分割回文串 II.go" />
+              <option name="questionId" value="132" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[134]加油站.go">
           <value>
             <LeetcodeEditor>
@@ -264,6 +272,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1357]每隔 n 个顾客打折.go" />
               <option name="questionId" value="1459" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[135]分发糖果.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[135]分发糖果.go" />
+              <option name="questionId" value="135" />
             </LeetcodeEditor>
           </value>
         </entry>
