@@ -443,11 +443,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[165]比较版本号.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[165]比较版本号.go" />
+              <option name="questionId" value="165" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.go" />
               <option name="questionId" value="167" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[168]Excel表列名称.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[168]Excel表列名称.go" />
+              <option name="questionId" value="168" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.go" />
+              <option name="questionId" value="169" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -464,6 +488,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1700]无法吃午餐的学生数量.go" />
               <option name="questionId" value="1802" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[171]Excel 表列序号.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[171]Excel 表列序号.go" />
+              <option name="questionId" value="171" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -496,6 +528,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[17]电话号码的字母组合.go" />
               <option name="questionId" value="17" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[180]连续出现的数字.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[180]连续出现的数字.go" />
+              <option name="questionId" value="180" />
             </LeetcodeEditor>
           </value>
         </entry>
