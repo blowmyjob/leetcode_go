@@ -219,6 +219,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[12]整数转罗马数字.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[12]整数转罗马数字.go" />
+              <option name="questionId" value="12" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1305]两棵二叉搜索树中的所有元素.go">
           <value>
             <LeetcodeEditor>
@@ -320,6 +328,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[139]单词拆分.go" />
               <option name="questionId" value="139" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[13]罗马数字转整数.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[13]罗马数字转整数.go" />
+              <option name="questionId" value="13" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -443,11 +459,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[164]最大间距.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[164]最大间距.go" />
+              <option name="questionId" value="164" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[165]比较版本号.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[165]比较版本号.go" />
+              <option name="questionId" value="165" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.go" />
               <option name="questionId" value="167" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[168]Excel表列名称.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[168]Excel表列名称.go" />
+              <option name="questionId" value="168" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.go" />
+              <option name="questionId" value="169" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -464,6 +512,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1700]无法吃午餐的学生数量.go" />
               <option name="questionId" value="1802" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[171]Excel 表列序号.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[171]Excel 表列序号.go" />
+              <option name="questionId" value="171" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -499,11 +555,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[180]连续出现的数字.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[180]连续出现的数字.go" />
+              <option name="questionId" value="180" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1823]找出游戏的获胜者.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1823]找出游戏的获胜者.go" />
               <option name="questionId" value="1951" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[187]重复的DNA序列.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[187]重复的DNA序列.go" />
+              <option name="questionId" value="187" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.go" />
+              <option name="questionId" value="188" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[189]旋转数组.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[189]旋转数组.go" />
+              <option name="questionId" value="189" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -520,6 +608,14 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1905]统计子岛屿.go" />
               <option name="questionId" value="2035" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.go" />
+              <option name="questionId" value="190" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -547,11 +643,51 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[192]统计词频.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[192]统计词频.go" />
+              <option name="questionId" value="192" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[193]有效电话号码.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[193]有效电话号码.go" />
+              <option name="questionId" value="193" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[196]删除重复的电子邮箱.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[196]删除重复的电子邮箱.go" />
+              <option name="questionId" value="196" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[197]上升的温度.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[197]上升的温度.go" />
+              <option name="questionId" value="197" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.go" />
               <option name="questionId" value="198" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[199]二叉树的右视图.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[199]二叉树的右视图.go" />
+              <option name="questionId" value="199" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -1,4 +1,4 @@
-package leetcode
+package contest
 
 func CountPalindromicSubsequence(s string) int {
 	slice := [26][2]int{}

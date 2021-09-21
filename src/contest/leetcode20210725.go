@@ -1,4 +1,4 @@
-package leetcode
+package contest
 
 func MaximumNumber(num string, change []int) string {
 	s := []byte(num)
