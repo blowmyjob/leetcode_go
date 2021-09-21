@@ -1,4 +1,4 @@
-package leetcode
+package contest
 
 func largestAltitude(gain []int) int {
 	temp, max := 0, 0

@@ -1,4 +1,4 @@
-package leetcode
+package contest
 
 func restoreArray(adjacentPairs [][]int) []int {
 	if len(adjacentPairs) == 1 {

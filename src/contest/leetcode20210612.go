@@ -1,4 +1,4 @@
-package leetcode
+package contest
 
 func chalkReplacer(chalk []int, k int) int {
 	var i int = 0
