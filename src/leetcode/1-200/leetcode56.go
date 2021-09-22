@@ -14,7 +14,7 @@ func MergeIntervals(intervals [][]int) [][]int {
 	end := intervals[0][1]
 	for _, v := range intervals {
 		if v[0] <= end {
-			end = maxIndex(v[1], cur[1])
+			end = maxInt(v[1], cur[1])
 			cur = []int{cur[0], end}
 		} else {
 			res = append(res, cur)

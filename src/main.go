@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"leetcode/src/contest"
+	leetcode "leetcode/src/leetcode/1-200"
 )
 
 func main() {
-	fmt.Println(contest.SumOfBeauties([]int{1, 2, 3}))
+	fmt.Println(leetcode.Permute([]int{1, 2, 3}))
 }
