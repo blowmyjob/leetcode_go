@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	leetcode "leetcode/src/leetcode/1-200"
+	leetcode "leetcode/src/leetcode/200-400"
 )
 
 func main() {
-	fmt.Println(leetcode.Permute([]int{1, 2, 3}))
+	fmt.Println(leetcode.NthUglyNumber(10))
 }
