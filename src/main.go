@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(leetcode.NthUglyNumber(10))
+	fmt.Println(leetcode.WordPattern("aaaa", "aa aa aa aa"))
 }
