@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(leetcode.WordPattern("aaaa", "aa aa aa aa"))
+	fmt.Println(leetcode.IsAdditiveNumber("199100199"))
 }
