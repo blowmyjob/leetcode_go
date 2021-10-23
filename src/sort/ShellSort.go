@@ -8,7 +8,7 @@ func shellSort(nums []int) {
 			x := nums[i]
 			nums[i] = nums[j]
 			for j >= 0 && x < nums[j] {
-				nums[j] = nums[j-1]
+				nums[j+step] = nums[j]
 				j -= step
 			}
 			nums[j+step] = x
