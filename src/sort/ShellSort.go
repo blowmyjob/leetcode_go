@@ -13,5 +13,6 @@ func shellSort(nums []int) {
 			}
 			nums[j+step] = x
 		}
+		step--
 	}
 }

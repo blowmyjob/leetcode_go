@@ -1,28 +1,33 @@
 package sort
 
-func QuickSort(nums []int, left, right int) {
-	if left < right {
-		l, r := left, right
-		i := left
-		x := nums[i]
-		for l < r {
-			for l < r && nums[r] > x {
-				r--
-			}
-			if l < r {
-				nums[l] = x
-				l++
-			}
-			for l < r && nums[l] < x {
-				l++
-			}
-			if l < r {
-				nums[r] = x
-				r--
-			}
+func partition(array []int, i int, j int) int {
+	//第一次调用使用数组的第一个元素当作基准元素
+	pivot := array[i]
+	for i < j {
+		for j > i && array[j] > pivot {
+			j--
 		}
-		nums[i] = x
-		QuickSort(nums, l, i-1)
-		QuickSort(nums, i+1, r)
+		if j > i {
+			array[i] = array[j]
+			i++
+		}
+		for i < j && array[i] < pivot {
+			i++
+		}
+		if i < j {
+			array[j] = array[i]
+			j--
+		}
+	}
+	array[i] = pivot
+	return i
+}
+
+func Quicksort(array []int, low int, high int) {
+	var pivotPos int //划分基准元素索引
+	if low < high {
+		pivotPos = partition(array, low, high)
+		Quicksort(array, low, pivotPos-1)
+		Quicksort(array, pivotPos+1, high)
 	}
 }

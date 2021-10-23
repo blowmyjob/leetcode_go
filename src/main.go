@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
-	leetcode "leetcode/src/leetcode/200-400"
+	"leetcode/src/sort"
 )
 
 func main() {
-	fmt.Println(leetcode.IsAdditiveNumber("199100199"))
+	var arr = []int{5, 2, 1, 4, 3}
+	sort.Quicksort(arr, 0, len(arr)-1)
+	fmt.Println(arr)
 }
