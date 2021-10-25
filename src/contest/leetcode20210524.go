@@ -16,7 +16,12 @@ func maximumElementAfterDecrementingAndRearranging(arr []int) int {
 	}
 	return res
 }
-
+func min(i, j int) int {
+	return 0
+}
+func max(i, j int) int {
+	return 0
+}
 func CheckZeroOnes(s string) bool {
 	var res0 int = 0
 	var res1 int = 0

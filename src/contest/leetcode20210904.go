@@ -34,7 +34,7 @@ type LockingTree struct {
 	user     []int
 }
 
-func Constructor(parent []int) LockingTree {
+func Constructor2(parent []int) LockingTree {
 	n := len(parent)
 	treeNode := make([][]int, n)
 	for w := 1; w < n; w++ {

@@ -1,7 +1,5 @@
 package sort
 
-import "fmt"
-
 func SelectSort(arr []int) []int {
 	if len(arr) <= 1 {
 		return arr
@@ -14,7 +12,6 @@ func SelectSort(arr []int) []int {
 			}
 		}
 		arr[min], arr[i] = arr[i], arr[min]
-		fmt.Println(arr)
 	}
 	return arr
 }
