@@ -1,5 +1,11 @@
 package leetcode
 
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
 func findMode(root *TreeNode) []int {
 	res := []int{}
 	base, count, maxCount := 0, 0, 0
